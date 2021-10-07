@@ -1,14 +1,17 @@
-# godmaking
+# Godmaking
 
-Bunch of formal concepts, in the first place phenomenal thinking frameworks of my authorship. Which I've created during last two years, being a long hard road, from, through and to the noise. 
+Bunch of formal concepts, in the first place phenomenal thinking frameworks of my authorship. 
+Created during last two years, being for me a long hard road, from, through and to the noise. 
 
-Then I had this brilliant idea of creating, a referencable object, that, relies, only on its' meaning provider
-oncept which naturaly coming from differenr domain. ,  I found this amazing 
+---
 
-Feeling like if living with  times, recalling 
+### General ideas
+ - Mathematical objects instead of having fixed form, are more of a templates, which can be used for description of some phenomena. The most important is the idea, concept, which we want to present. 
+ - Formality is a property of mathematical object, entirely dependent on the meaning provider.
+ - Definition, comes with default properties and relations of the defined object
+ 
+---
 
-General ideas:
-  1. 
+### GOD: Generators, Objects and Deffers
 
 
-- [G: Generator, O: Objects, D: Deffers] 
