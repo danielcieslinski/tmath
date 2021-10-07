@@ -9,6 +9,7 @@ Created during last two years, being for me a long hard road, from, through and 
  - Definition, comes with default properties and relations of the defined object
  - Every object, has size
  - Everything that exists, indicates existance of a scope, within this object maintains its' identity.
+ - Proof is source of truth in the domain of blind. No need to prove, when you don't forget the rules, you define
 
 ---
 - [ ] GOD: Generators, Objects and Deffers
