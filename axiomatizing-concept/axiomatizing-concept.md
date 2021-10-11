@@ -1,29 +1,24 @@
 # Axiomatizing Concept
 
-> This document, beyond introducing mentioned concepts, presents, reasons for their `formal correctness`, what only in order to present, that mentioned concepts, hold for what's commonly estabilished as necessary formality. 
+## Purpose
+The purpose is to estabilish *mathematics ov thought.*, where formalisms make tools, for  expressing particular ideas, instead of creating formal systems, that later are responsible for losing the idea, among formally correct expressions. I call this a `formal symbolism`.
 
-> I'll later provide follow-up, pure definitions, extracting the essence,
-> of what I've came up with.
-
-> The purpose behind, basically rewriting whole mathematics, is to estabilish *mathematics ov thought.*, where formalism make tools, that help, to represent and abstract, about certain ideas. 
+> This document, beyond introducing mentioned concepts, presents, reasons for their `formal correctness`, what's done only in order to present, that introduced concepts, don't come with loss of, what's commonly estabilished as necessity, in order to speak of something in terms of being a formalism. 
 
 [TOC]
 
 ## Intution
 My motivation behind creating this formalisms. is so that, we don't have to waste
-time, for priorly specifying what we are exactly speaking about and overall, just making our lifes easier when it 
-comes to speaking about all kinds of ideas, where quantifiers like `never`, `all`
- cant be applied without losing formality to the system. 
+time, for priorly specifying what we are exactly speaking about and overall, just making our lifes easier when it comes to speaking about all kinds of ideas, where quantifiers like `never`, `all` cant be applied without losing formality to the system. 
 
 ## Anti-concept
 All concepts, have common exactly one common anti-concept. It's its'
-non-existance. Because every concept which doesn't exist is non-distinguishable and non-referancable,
- therefore there is exactly one anti-concept, that is common for all concepts,
-  either way we define what is a concept. A concept must exist. It can be non-referencable,
-    within some system, or non-distinguishable. There is potentially infintiely many concepts, that can exist.
- 
-It's waste of time to argue if concepts, exist or not, before there exists something what describes them,
- or something that is their exact relaisation.
+non-existance. Because every concept which doesn't exist is non-distinguishable and non-referancable, therefore there is exactly one anti-concept, that is common for all concepts,
+either way we axiometize the term `concept`.
+
+The only rule is that it must exist. It can be non-referencable, or non-distinguishable. There are infintiely many concepts, that exist. Concepts, exist regardless of time, which is not obvious if we were to speak about `the idea` of something. Concept involves formal systems, that hold property of infinity-generating. 
+<!--  
+It's a waste of time to argue if concepts, exist or not, before there exists something that describes them, or something that is their exact realization. -->
 
 ---
 
@@ -112,7 +107,7 @@ So the only rule is that, it has to be more of a distance metric, than no-`dista
 
 | Concept Descriptor: $c$                                                          | Realizer $r$ | ∂: Semi-abstract distance metric |
 | -------------------------------------------------------------------------------- | ------------ | -------------------------------- |
-| A program, that provides an answer to the question: 'Whats' the meaning of life. | `print(42)`  | ∂(c, x)                          |
+| A program, that provides an answer to the question: 'Whats' the meaning of life. | `print(42)`  | ∂(c, r)                          |
 
 
 **We say that object $r$ is perfect realiser of formal concept $sc$, with semi-abstract distance metric $∂$, up to it's degree of formality.**
@@ -141,10 +136,7 @@ While still being able to stay a perfect realizer of this concept, to another me
 __Example: Syntax errors__
 
 So I thought it's pretty problematic, because the idea of formality doesn't relate anything sensible anymore.
-And then I reminded, myself about my black magick and casted another `semi-abstract distance metric`, which this time
-happens to produce, all the distance metrics, perfectly intuitively describe, 
-all the properties, of the mentioned system, as by creating a gradient and its' mapping, with annotated relevance metric
-, producing interpretable system state-transition matrix, from which all information, considered relevant, can be directly read.
+And then I reminded, myself about my black magick and casted another `semi-abstract distance metric`, which this time happens to produce, all the distance metrics, which perfectly  describe, all properties, of the mentioned system, as if by creating a gradient and corresponding mapping, to the annotated relevance metric which is producing interpretable  state-transition matrix, from which all information, considered relevant, can be directly interpreted.
 
 This is the last, time such bullshit has to be written. 
 Frameworks presented here, are capable of representing, all mathematical ideas,
