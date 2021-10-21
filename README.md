@@ -4,7 +4,7 @@ I introduce bunch of novel formal concepts, in the first place, phenomenal think
 that I created during last two years, when I travel a long hard road, from, through and to the noise, trying to find out what totality is.
 
 __Name comes from: Generators, Objects, Deffer.__
-Those are primers that formal object must distinguish to maitain, "mathmaking" capabilities.
+Those are primers that formal object must distinguish to maintain, "mathmaking" capabilities.
 
 
 #### General ideas
