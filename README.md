@@ -19,4 +19,4 @@ Those are primers that formal object must distinguish to maitain, "mathmaking" c
 
 # Book
 
-* [Formalizing Concept](axiomatizing-concept/axiomatizing-concept.html)
+* [Formalizing Concept](axiomatizing-concept/axiomatizing-concept_.md)
