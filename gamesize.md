@@ -5,6 +5,14 @@ From every point in a system, deterministic computation of system
 dimensionality, where dimensionality means, deterministic step [n] -> [n+1]
 can be computed with n=Q(N)
 
+Information in common understanding is triple.
+(input information, transformation, output information)
+
+
+transformation of information 
+
+CI => I'
+
 There is quantum algorithm being exactly n=O(n) which allows to determine 
 
 
