@@ -1,18 +1,15 @@
+---
+description: Meta
+---
+
 # ⍡
 
 ## Taxonomy
 
-## Tline
+## <mark style="color:blue;">T-line</mark>
 
-## Truth \[Logic]
+## Truth \[BooleanL]
 
-## Type
+## Type \[definition]
 
 ## Time
-
-
-
-
-
-
-
