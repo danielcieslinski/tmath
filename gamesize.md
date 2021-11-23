@@ -1,30 +1,25 @@
 # gamesize
 
-#### Information
-
-Information in common understanding is triple. (input-information, transformation, output-information).
-
-Transformation,
-
-`1-1`
-
-Transformation is computation. Every computation, must hold type closure.
-
 #### How big is a game?
 
 **Idea**
 
-From every point in a system, deterministic computation of system dimensionality, where dimensionality is natural number, with deterministic step \[n] -> \[n+1] can be computed with n=Q(N).
-
-There is quantum algorithm being exactly n=O(n) which allows to determine
+From every point in a system, deterministic computation of system dimensionality, where dimensionality is natural number, with deterministic step \[n] -> \[n+1] can be computed with quantum algorithm, n=QO(dim(N))
 
 #### Concept identity
 
-identity(x):= f(x) -> ø difference(x,y) := ð(x,y) => o
+identity(x):= f(x) -> ø
+
+&#x20;difference(x,y) := ð(x,y) => o
 
 ```
 // example
-  [•, ¡] (either[f(x) -> ø, f:=ð ] ] )
+g(x) = 0 
+2(π
+  === x(f) = 0
+x(g) = 0
+
+ [•, ¡]
 ```
 
 #### Metatuple
@@ -35,9 +30,7 @@ Every non-formal (non binary comparable), concept can be iteratively transformed
 
 For every antioperator in generative expression, there is entangled existance operator. Let's say, there is a rule, that from beggining tuple, we write anti operator always on the right side.
 
-> To make it easier to write for existance operator I'll denote as 'a' and anti operator as 'b'.
-
-> Why goddamit there is still no software where I can easily remap keys, and also let everyone else, who would like to use same convention, easily import same key combination in any place. For this are the metatheorems so that they can be used to easily represent every concept, with no loss of generality. This is just grotesque, that $e^{\pi \* i} = -1$ is considered to be the greatest theorem ever, while harddly usefull in any case, cuz is either responsible, for problems emerging by aproximating identity element, by inf series, or general collapse of the idea. $i = sqrt(-1)$ is the paper town of mathematics. semi-greatest prank in the history of human intelligence.
+> Why goddamit there is still no software where I can easily remap keys, and also let everyone else, who would like to use same convention, easily import same key combination in any place. For this are the metatheorems so that they can be used to easily represent every concept, with no loss of generality. This is just grotesque, that $e^{\pi \* i} = -1$ is considered to be the greatest theorem ever, while hardly useful in any case, cuz is either responsible, for problems emerging by approximating identity element, with inf series, or general collapse of the idea. $i = sqrt(-1)$ is the paper town of mathematics. semi-greatest prank in the history of human intelligence.
 
 Besides.
 
@@ -87,11 +80,3 @@ o = "•¡"
 •¡ \[••]\[¡¡]
 
 •\[•,¡]¡
-
-```
-
-
-
-
-	
-```

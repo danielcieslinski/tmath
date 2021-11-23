@@ -34,15 +34,15 @@ It can be illustrated with the idea, off as the meta Hillbert space. In other wo
 
 Given the idea above, it obviously raises, the idea that same description, might represent something very different depending on who interprets the message.
 
-> I use term `meaning provider` instead of what's commonly assosiated with word `interpreter` because word interpreter,  assosiates descriptor, with specified schema, which is specifying how the meaning is infered. Nevertheless. You can treat each other as aliases.
+> I use term `meaning provider` instead of what's commonly assosiated with word `interpreter` because word interpreter, assosiates descriptor, with specified schema, which is specifying how the meaning is infered. Nevertheless. You can treat each other as aliases.
 
-**Contextualized descriptor**
+### **Contextualized descriptor**
 
-Roughly speaking, it takes description of  and returns object, which I call, `contextalized descriptor`, $mpx$.
+Roughly speaking, it takes description of and returns object, which I call, `contextalized descriptor`
 
-> Because this concepts, is a primer, to the `context` spanned along, with relevance, by value, up to its' anti-auto-morphism. #todo
+> Because this concepts, is a primer, to the `context` spanned along, with relevance, by value, up to its' anti-auto-morphism.
 
-$M$ denotes translation, of descriptor with `meaning` of $x$, for interpreter $p$, into common query space, common for all, meaning providers.
+&#x20;denotes translation, of descriptor with `meaning` of $x$, for interpreter $p$, into common query space, common for all, meaning providers.
 
 $$M_p(x) \rightarrow mpx$$ $$H_c(mpx) \rightarrow res | OT:C_s$$
 
@@ -85,7 +85,7 @@ So the only rule is that, it has to be more of a distance metric, than no-`dista
 | -------------------------------------------------------------------------------- | ----------- | -------------------------------- |
 | A program, that provides an answer to the question: 'Whats' the meaning of life. | `print(42)` | ∂(c, r)                          |
 
-**We say that object r is a perfect **_**realiser**_** of formal concept sc, with semi-abstract distance metric ∂, up to the degree of its formality.**
+**We say that object r is a perfect \_realiser**\_\*\* of formal concept sc, with semi-abstract distance metric ∂, up to the degree of its formality.\*\*
 
 **An example**
 

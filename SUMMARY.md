@@ -1,18 +1,28 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Definitions](definitions/README.md)
-  * [Scope](definitions/scope.md)
-  * [Context](definitions/context.md)
-* [Concept box](concept-box.md)
-* [gamesize](gamesize.md)
-* [Formalizing Concept](axiomatizing-concept.md)
-* [Principles](principles.md)
-* [Mathmaking](mathmaking/README.md)
-  * [GOD principle](mathmaking/god-principle.md)
-* [Duality](duality.md)
+* [Formalizing Concept](axiomatizing-concept/README.md)
+  * [Concept box](axiomatizing-concept/concept-box.md)
+* [Term clarifications](term-clarifications.md)
+* [God principle](god-principle.md)
+
+## Metaobjects
+
+* [Primitives](metaobjects/primitives/README.md)
+  * [Anti-operator](metaobjects/primitives/anti-operator.md)
+  * [Existance functor](metaobjects/primitives/existance-functor.md)
+  * [Metatype](metaobjects/primitives/metatype.md)
+* [⍡](metaobjects/undefined/README.md)
+  * [Taxonomy](metaobjects/undefined/taxonomy.md)
+* [QV](metaobjects/qv.md)
+* [Ontology](metaobjects/ontology.md)
 
 ## Mathmaking
 
-* [Iterative approach](mathmaking-1/iterative-approach.md)
-* [God](mathmaking-1/god.md)
+* [Iterative](mathmaking/iterative.md)
+
+***
+
+* [Page 1](page-1.md)
+* [Duality](duality.md)
+* [gamesize](gamesize.md)

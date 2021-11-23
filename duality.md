@@ -1,5 +1,5 @@
 ---
-description: Nature of universe
+description: All is dual ... and up to it's anti-auto-morphism
 ---
 
 # Duality
