@@ -1,97 +1,69 @@
+# gamesize
 
-### How big is a game?
-#### Idea
-From every point in a system, deterministic computation of system
-dimensionality, where dimensionality means, deterministic step [n] -> [n+1]
-can be computed with n=Q(N)
+#### Information
 
-Information in common understanding is triple.
-(input information, transformation, output information)
+Information in common understanding is triple. (input-information, transformation, output-information).
 
+Transformation,
 
-transformation of information 
+`1-1`
 
-CI => I'
+Transformation is computation. Every computation, must hold type closure.
 
-There is quantum algorithm being exactly n=O(n) which allows to determine 
+#### How big is a game?
 
+**Idea**
 
-### Concept identity
+From every point in a system, deterministic computation of system dimensionality, where dimensionality is natural number, with deterministic step \[n] -> \[n+1] can be computed with n=Q(N).
 
-identity(x):= f(x) -> ø
-difference(x,y) := ð(x,y) => o
+There is quantum algorithm being exactly n=O(n) which allows to determine
+
+#### Concept identity
+
+identity(x):= f(x) -> ø difference(x,y) := ð(x,y) => o
 
 ```
 // example
   [•, ¡] (either[f(x) -> ø, f:=ð ] ] )
-
 ```
 
-### Metatuple
+#### Metatuple
 
-Every non-formal (non binary comparable), concept can be iteratively transformed to formal using the meta tuple [•, ¡].
+Every non-formal (non binary comparable), concept can be iteratively transformed to formal using the meta tuple \[•, ¡].
 
-(•) represents the existance functor.
-(¡) represent the anti-operator. 
+(•) represents the existance functor. (¡) represent the anti-operator.
 
-For every antioperator in generative expression, there is entangled existance
-operator. Let's say, there is a rule, that from beggining tuple, we write anti
-operator always on the right side. 
+For every antioperator in generative expression, there is entangled existance operator. Let's say, there is a rule, that from beggining tuple, we write anti operator always on the right side.
 
-> To make it easier to write for existance operator I'll denote as 'a' and anti
-operator as 'b'. 
+> To make it easier to write for existance operator I'll denote as 'a' and anti operator as 'b'.
 
-> Why goddamit there is still no software where I can easily remap keys,
-> and also let everyone else, who would like to use same convention, easily
-> import same key combination in any place. For this are the metatheorems so 
-> that they can be used to easily represent every concept, with no loss of
-> generality. This is just grotesque, that $e^{\pi * i} = -1$ is considered to
-> be the greatest theorem ever, while harddly usefull in any case, cuz is
-> either responsible, for problems emerging by aproximating identity element,
-> by inf series, or general collapse of the idea. $i = sqrt(-1)$ is the paper town of mathematics.
-> semi-greatest prank in the history of human intelligence. 
+> Why goddamit there is still no software where I can easily remap keys, and also let everyone else, who would like to use same convention, easily import same key combination in any place. For this are the metatheorems so that they can be used to easily represent every concept, with no loss of generality. This is just grotesque, that $e^{\pi \* i} = -1$ is considered to be the greatest theorem ever, while harddly usefull in any case, cuz is either responsible, for problems emerging by aproximating identity element, by inf series, or general collapse of the idea. $i = sqrt(-1)$ is the paper town of mathematics. semi-greatest prank in the history of human intelligence.
 
 Besides.
 
-### Producing T-function 
+#### Producing T-function
 
 ```
 g = [•,¡]
 ```
 
-### Theorem
+#### Theorem
 
-Identity of representation of T-generating element, in a system, 
-with invariant representation transformation, must involve additional
-information, allowing for distinguishment the generative element, from first step
-of the generative process. I'm assuming here, my PR principle. 
-Principle od system design, which is to always be able to recognize, the pure
-idea of the system, when inside the system <==> (g)enerator. 
+Identity of representation of T-generating element, in a system, with invariant representation transformation, must involve additional information, allowing for distinguishment the generative element, from first step of the generative process. I'm assuming here, my PR principle. Principle od system design, which is to always be able to recognize, the pure idea of the system, when inside the system <==> (g)enerator.
 
-That is: Something that allows, for emergence of h-cobordism, from its'
-anti-auto-morphism.
+That is: Something that allows, for emergence of h-cobordism, from its' anti-auto-morphism.
 
-Imagine you're sitting inside a ball. In order to remeber where you are you
-make a square and draw π in it's center. Wherever inside a ball it allows you
-to recall, that it's exactly anti-concept of a ball, shape, equality and your
-position ;)
+Imagine you're sitting inside a ball. In order to remeber where you are you make a square and draw π in it's center. Wherever inside a ball it allows you to recall, that it's exactly anti-concept of a ball, shape, equality and your position ;)
 
+#### Copy functor
 
-### Copy functor
-
-Given that representation system of the generative element, stays invariant for the time of producing T-function
-we can say there is a procedure pi(g), which first step is transition of the
-element between the (concept, realiser) domains.
+Given that representation system of the generative element, stays invariant for the time of producing T-function we can say there is a procedure pi(g), which first step is transition of the element between the (concept, realiser) domains.
 
 Using the idea of contextulized descriptor. We can wnlog say:
 
 g=ctx(e) != g
 
-
-
-functor (C), which when applied to generative
-element, produces pure T-function. Giv
-
+functor (C), which when applied to generative element, produces pure T-function. Giv
 
 ```
 idea of existstance inside anty system:
@@ -110,18 +82,16 @@ def pi(g):
 
 //
 o = "•¡"
-
-```
-•¡
-[••][¡¡]
-
-
-  •[•,¡]¡
-
 ```
 
+•¡ \[••]\[¡¡]
+
+•\[•,¡]¡
+
+```
 
 
 
 
 	
+```
