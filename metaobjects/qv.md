@@ -4,10 +4,12 @@ description: One concept for all
 
 # QV
 
+**Definition:** Extension of the totality box, by the object which we define.&#x20;
+
 * (Q=Qualifier, V=value)
 * (Q=Qualifier, V=validator)
 * (Q=Quality, V=val\[metric])
-* (Q=Query, V...)&#x20;
+* (Q=Query, V...)
   * V is set of values, depening on the query)
 
 ```
@@ -23,7 +25,6 @@ Q(S, x) | x in? S => always #yes
 -----.-------------------
      | Qualifier (on) := (function)( | contents | V | 
 -------------------------
-
 ```
 
 ## Q V

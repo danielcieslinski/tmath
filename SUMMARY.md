@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Background](README.md)
-* [Formalizing Concept](axiomatizing-concept/README.md)
-  * [Concept box](axiomatizing-concept/concept-box.md)
+* [Formalizing Concept](axiomatizing-concept.md)
 * [Term clarifications](term-clarifications.md)
 * [God principle](god-principle.md)
 
@@ -12,8 +11,7 @@
   * [Anti-operator](metaobjects/primitives/anti-operator.md)
   * [Existance functor](metaobjects/primitives/existance-functor.md)
   * [Metatype](metaobjects/primitives/metatype.md)
-* [⍡](metaobjects/undefined/README.md)
-  * [Taxonomy](metaobjects/undefined/taxonomy.md)
+* [⍡](metaobjects/undefined.md)
 * [QV](metaobjects/qv.md)
 * [Ontology](metaobjects/ontology.md)
 

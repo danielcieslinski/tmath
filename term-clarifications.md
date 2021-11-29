@@ -1,7 +1,7 @@
 ---
 description: Unification
-cover: .gitbook/assets/chaos-game.png
-coverY: 247.97047970479701
+cover: .gitbook/assets/download (19).png
+coverY: 0
 ---
 
 # Term clarifications
@@ -9,6 +9,3 @@ coverY: 247.97047970479701
 ## Scope
 
 ## Context
-
-
-
