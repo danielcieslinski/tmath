@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
-* [Principles](principles.md)
+* [Background](README.md)
 * [Formalizing Concept](axiomatizing-concept/README.md)
   * [Concept box](axiomatizing-concept/concept-box.md)
 * [Term clarifications](term-clarifications.md)
