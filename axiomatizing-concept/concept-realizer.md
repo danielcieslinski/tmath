@@ -7,5 +7,7 @@
 
 Every descriptor is quering function on the concept space, yet every
 descriptor, which does not have perfect realizer, entagles nondetermistic
-error.
+error. Perfect realizer exists only if the concept, descriptor is 'pure',
+belongs to the space with no-fact.
+
 
