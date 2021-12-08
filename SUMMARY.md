@@ -21,5 +21,10 @@
 
 ***
 
+* [Page 1](page-1.md)
 * [Duality](duality.md)
 * [gamesize](gamesize.md)
+
+## Other
+
+* [Chaos Generator](other/chaos-generator.md)
