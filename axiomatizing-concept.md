@@ -14,13 +14,15 @@ My motivation behind creating this formalisms. is so that, we don't have to wast
 
 All concepts, have common exactly one common anti-concept. It is their <mark style="color:yellow;">non-existance</mark>. Given that every concept which doesn't exist is non-distinguishable and non-referancable(by a referencer of  higher specificity), there is exactly one anti-concept, that is common for all concepts.
 
-The only rule is that it **must** **exist**. It can be non-referencable, or non-distinguishable. There are infintiely many concepts, that exist. Concepts, exist regardless of time, which is not obvious if we were to speak about `the idea` of something, because there is a point in time, from which we can say that it exists. Concept involves formal systems, that hold property of infinity-generating.
+The only rule is that it **must** **exist**. It can be non-referencable, or non-distinguishable. There are infinitely many concepts, that exist. Concepts, exist regardless of time, which is not obvious if we were to speak about `the idea` of something, because there is a point in time, from which we can say that it exists. Concept involves formal systems, that hold property of infinity-generating.
 
-### Very important notes!
+## Singular concept space
 
-**Update** : This was, the inital idea, yet I provide handy realisation of this idea with use of Hilbert space and a function, acting as `quering function` in common computational sense. Where the argument to this function, is `contextualized descriptor`.
+My initial idea, was to guarantee singularity of all concepts, through asserting, that all of them have exactly one common anti-concept, and later by involving some kind of ideas of semi-abstract(which I describe below) metric-spaces spanned the total set of comparators. However I  provide much handier realization of the idea, by usage of singleton Hilbert space, containing all the possible concepts, that can ever exist.
 
-> Note: I leave the initial idea here, as I believe it's important to be able to see, how this idea evolved over time, what makes it easier to understand it, but also it allows reader to get the notion, of the purpose behind it, what is of superior value itself, but also, let's others to introduce suggestions, or corrections, to a final form, what is hard accomplish, when being presented a readymade formalism.
+Concept descriptors are functions, acting in that space and can be thought of as `querying function` in common computational sense. Argument to this function, is `contextualized descriptor`.&#x20;
+
+> Note: I mention my initial idea here, as I believe it's important to be able to see, how this idea evolved over time, what makes it easier to understand it, but also it allows reader to get the notion, of the purpose behind it, what is of superior value itself, but also, let's others to introduce suggestions, or corrections, to a final form, what is hard accomplish, when being presented a readymade formalism.
 
 ## Axioms of concept
 
@@ -32,21 +34,17 @@ It can be illustrated with the idea, off as the meta Hilbert space. In other wor
 
 ## Meaning provider
 
-### Intuition
-
 Given the idea above, it obviously raises, the idea that same description, might represent something very different depending on who interprets the message.
 
-> I use term `meaning provider` instead of what's commonly associated with word `interpreter` because word interpreter, associates descriptor, with specified schema, which is specifying how the meaning is inferred. Nevertheless. You can treat each other as aliases.
+I use term `meaning provider` instead of what's commonly associated with word `interpreter` because word interpreter, associates descriptor, with specified schema, which is specifying how the meaning is inferred. Nevertheless. You can treat each other as aliases.
 
-### **Contextualized descriptor**
+## **Contextualized descriptor**
 
 Roughly speaking, it takes description of and returns object, which I call, `contextualized descriptor`, because it's a primer, to the `context` spanned along, with relevance, by value, up to its' anti-auto-morphism.
 
-M(x) denotes translation(can be also thought of as convolution) of descriptor with `meaning` of x, provided by interpreter p, into singleton  <mark style="background-color:green;">concept Hilbert space</mark>, which is queryable space, common for all, meaning providers.
+M(x) denotes translation(can be also thought of as convolution) of descriptor with `meaning` of x, provided by interpreter p, into singleton <mark style="background-color:green;">concept Hilbert space</mark>, which is queryable space, common for all, meaning providers.
 
 $$M_p(x) \rightarrow mpx$$ $$H_c(mpx) \rightarrow res | OT:C_s$$
-
-
 
 #### Example
 
@@ -80,7 +78,7 @@ Substitute X with any **formal object** which properties, you're interested in a
 
 So the **only rule** is that, <mark style="background-color:red;">it has to be more of a distance metric, than no-distance metric.</mark> This is very useful, for describing and comparing objects, from completely disjoint contexts/scopes and omitting tones of irrelevant bullshit, that current understanding of formal concepts It's one of my favorite spell in fighting current mathematical establishment.
 
-### Concepts, with realizers.
+## Concepts, with realizers.
 
 | Concept Descriptor                                                               | Realizer    | ∂: Semi-abstract distance metric |
 | -------------------------------------------------------------------------------- | ----------- | -------------------------------- |
@@ -101,7 +99,7 @@ r = 'The meaning of life is: {}'.format(get_answer(sc.question))
 
 So in the first place it raises the question, what the hell is '∂' and the whole idea is that its' whatever you want it to be and it's formal up to the degree, of formality of your specification and the meaning As long, as you can provide non contradictory meaning, everything is cool.
 
-### Formality
+## Formality
 
 **Formality is just a property entirely dependent, on the knowledge of the meaning provider.** This should illustrate, that it's absolutely easy for what's said to be `formal object`, to contain errors disqualifying them entirely, from evaluation, which conditions its' `formality`. While still being able to stay a perfect realizer of this concept, to another meaning provider.
 

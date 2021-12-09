@@ -2,8 +2,9 @@
 
 * [Background](README.md)
 * [Formalizing Concept](axiomatizing-concept.md)
-* [Term clarifications](term-clarifications.md)
+* [Scope context](term-clarifications.md)
 * [God principle](god-principle.md)
+* [The making of T](the-making-of-t.md)
 
 ## Metaobjects
 
@@ -23,8 +24,9 @@
 
 * [Page 1](page-1.md)
 * [Duality](duality.md)
-* [gamesize](gamesize.md)
 
 ## Other
 
+* [Copy functor](other/gamesize.md)
 * [Chaos Generator](other/chaos-generator.md)
+* [Some ideas](other/some-ideas.md)

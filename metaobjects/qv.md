@@ -31,4 +31,5 @@ Q(S, x) | x in? S => always #yes
 
 | Q          | Inside object | V       |
 | ---------- | ------------- | ------- |
+| query      | subject       |         |
 | `function` | {value}       | {value} |
