@@ -22,7 +22,6 @@
 
 ***
 
-* [Page 1](page-1.md)
 * [Duality](duality.md)
 
 ## Other
