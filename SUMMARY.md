@@ -20,10 +20,6 @@
 
 * [Iterative](mathmaking/iterative.md)
 
-***
-
-* [Duality](duality.md)
-
 ## Other
 
 * [Copy functor](other/gamesize.md)
