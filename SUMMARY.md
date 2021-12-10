@@ -5,6 +5,7 @@
 * [Scope context](term-clarifications.md)
 * [God principle](god-principle.md)
 * [The making of T](the-making-of-t.md)
+* [Gates](gates.md)
 
 ## Metaobjects
 
