@@ -4,7 +4,7 @@ cover: .gitbook/assets/download (19).png
 coverY: 0
 ---
 
-# Context
+# Context and scope
 
 ### Clarification
 
@@ -12,4 +12,6 @@ I propose clarification and unification of the term "Context" and introduce one 
 
 ### Scope
 
-That's pretty obvious, but just to clarify. Scope, describes a locality within which object have valid reference. In other words, scope describes -đλłds¬¬sdd
+That's pretty obvious, but just to clarify. Scope, describes a locality within which object have valid reference. In other words, for object in a scope we can calculate power of context.
+
+### Strength of context
