@@ -2,10 +2,11 @@
 
 * [Background](README.md)
 * [Formalizing Concept](axiomatizing-concept.md)
-* [Scope context](term-clarifications.md)
-* [God principle](god-principle.md)
 * [The making of T](the-making-of-t.md)
+* [God principle](god-principle.md)
+* [3(Pr)](3-pr.md)
 * [Gates](gates.md)
+* [Context](term-clarifications.md)
 
 ## Metaobjects
 
