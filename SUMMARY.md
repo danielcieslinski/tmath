@@ -24,4 +24,4 @@
 
 * [Copy functor](other/gamesize.md)
 * [Chaos Generator](other/chaos-generator.md)
-* [Some ideas](other/some-ideas.md)
+* [Free ideas](other/free-ideas.md)
