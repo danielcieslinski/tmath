@@ -4,9 +4,9 @@
 * [Formalizing Concept](axiomatizing-concept.md)
 * [The making of T](the-making-of-t.md)
 * [God principle](god-principle.md)
-* [3(Pr)](3-pr.md)
 * [Gates](gates.md)
 * [Context and scope](term-clarifications.md)
+* [3(Pr)](3-pr.md)
 
 ## Metaobjects
 

@@ -1,17 +1,11 @@
 ---
-description: Term clarification and its' power.
+description: Unification
 cover: .gitbook/assets/download (19).png
 coverY: 0
 ---
 
-# Context and scope
+# Term clarifications
 
-### Clarification
+## Scope
 
-I propose clarification and unification of the term "Context" and introduce one of my first mathematical ideas, which I called "Strength of context" and basically can be understood as gradient over some locality.
-
-### Scope
-
-That's pretty obvious, but just to clarify. Scope, describes a locality within which object have valid reference. In other words, for object in a scope we can calculate power of context.
-
-### Strength of context
+## Context
