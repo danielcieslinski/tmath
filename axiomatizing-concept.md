@@ -12,17 +12,9 @@ My motivation behind creating this formalisms. is so that, we don't have to wast
 
 ## Anti-concept
 
-All concepts, have common exactly one common anti-concept. It is their <mark style="color:yellow;">non-existance</mark>. Given that every concept which doesn't exist is non-distinguishable and non-referancable(by a referencer of  higher specificity), there is exactly one anti-concept, that is common for all concepts.
+All concepts, have one common anti-concept. It is their <mark style="color:yellow;">non-existance</mark>. Given that every concept which doesn't exist is non-distinguishable and non-referancable(by a referencer of  higher specificity), there is exactly one anti-concept, that is common for all concepts.
 
-The only rule is that it **must** **exist**. It can be non-referencable, or non-distinguishable. There are infinitely many concepts, that exist. Concepts, exist regardless of time, which is not obvious if we were to speak about `the idea` of something, because there is a point in time, from which we can say that it exists. Concept involves formal systems, that hold property of infinity-generating.
-
-## Singular concept space
-
-My initial idea, was to guarantee singularity of all concepts, through asserting, that all of them have exactly one common anti-concept, and later by involving some kind of ideas of semi-abstract(which I describe below) metric-spaces spanned the total set of comparators. However I  provide much handier realization of the idea, by usage of singleton Hilbert space, containing all the possible concepts, that can ever exist.
-
-Concept descriptors are functions, acting in that space and can be thought of as `querying function` in common computational sense. Argument to this function, is `contextualized descriptor`.&#x20;
-
-> Note: I mention my initial idea here, as I believe it's important to be able to see, how this idea evolved over time, what makes it easier to understand it, but also it allows reader to get the notion, of the purpose behind it, what is of superior value itself, but also, let's others to introduce suggestions, or corrections, to a final form, what is hard accomplish, when being presented a readymade formalism.
+The only rule is that concept **must** **exist**. It can be non-referencable, or non-distinguishable. Therefore there are infinitely many concepts, that exist. Concepts, exist regardless of time, which is not obvious if we were to speak about `the idea` of something, because there is a point in time, from which we can say that it exists(the point in time, denoting its' creation). Concept involves formal systems, that hold property of infinity-generating.
 
 ## Axioms of concept
 
@@ -30,7 +22,15 @@ Purpose of this formalism, was to extend the idea of thought, into scopes with d
 
 * **Existence of concepts, is entirely independent from their descriptors.**
 
-It can be illustrated with the idea, off as the meta Hilbert space. In other words: Whatever can be ever spoken off as a concept already exists in a this space, which contains, all concepts and so `definition` in context of a concept, instead of transforming framing object, should be thought off as accessing already existing element in that space.
+## Singular concept space
+
+My initial idea, was to guarantee singularity of all concepts, through asserting, that all of them have exactly one common anti-concept, and later by involving some kind of ideas of semi-abstract(which I describe below) metric-spaces spanned along the total set of comparators. However I  provide much handier realization of the idea, by usage of **singleton** Hilbert space, containing all concepts, that can ever exist. In other words, if concept is referencable(by the given descriptor) it belongs to that space.
+
+Whatever can be ever spoken off as a concept already exists in a this space, which contains, all concepts and so `definition` in context of a concept, instead of transforming framing object, should be thought off as accessing already existing element in that space.
+
+Concept descriptors are functions, acting on that space and can be thought of as `querying functions` in common computational sense. Argument to those functions, are `contextualized descriptors`.&#x20;
+
+> Note: I mention my initial idea here, as I believe it's important to be able to see, how this idea evolved over time, what makes it easier to understand it, but also it allows reader to get the notion, of the purpose behind it, what is of superior value itself, but also, let's others to introduce suggestions, or corrections, to a final form, what is hard accomplish, when being presented a readymade formalism.
 
 ## Meaning provider
 
@@ -40,11 +40,13 @@ I use term `meaning provider` instead of what's commonly associated with word `i
 
 ## **Contextualized descriptor**
 
-Roughly speaking, it takes description of and returns object, which I call, `contextualized descriptor`, because it's a primer, to the `context` spanned along, with relevance, by value, up to its' anti-auto-morphism.
+Roughly speaking, its' descriptor transformed into an object object, which I call, `contextualized descriptor`, because it's a primer, to the `context` spanned along, with relevance, by value, up to its' anti-auto-morphism.
 
 M(x) denotes translation(can be also thought of as convolution) of descriptor with `meaning` of x, provided by interpreter p, into singleton <mark style="background-color:green;">concept Hilbert space</mark>, which is queryable space, common for all, meaning providers.
 
 $$M_p(x) \rightarrow mpx$$ $$H_c(mpx) \rightarrow res | OT:C_s$$
+
+$$res | OT:C_s$$ means that type of the result is a concept, pointed to by sentence s
 
 #### Example
 
@@ -54,9 +56,9 @@ Let <mark style="color:blue;">Mx</mark> and <mark style="color:orange;">My</mark
 
 ## Identity of concepts
 
-As mentioned, concepts exists, in singular Hilbert Space, accessible only by creating queries, pointing, to "regions"(or other varieties) that are relevant concept representations. Therefore identity of concepts, can be inferred, only by comparing.
+As mentioned, concepts exists, in singular Hilbert Space, accessible only by creating queries, pointing, to "regions"(or other varieties) that are relevant concept representations. Therefore identity of concepts, can be inferred, by simple comparison.
 
-* Therefore we can with no loss of generality, represent as function on the earlier mentioned Hilbert Space, which given sentences (<mark style="color:blue;">mxs,</mark> <mark style="color:orange;">mys)</mark><mark style="color:blue;">)</mark> return, appropriate association, that is simply. Hc(<mark style="color:blue;">mxs</mark>), Hc(<mark style="color:orange;">mys</mark>). Where Hc represents, <mark style="background-color:green;">the concept Hilbert space</mark>&#x20;
+* With no loss of generality, descriptors can be represented as functions on the earlier mentioned Hilbert Space, which given sentences (<mark style="color:blue;">mxs,</mark> <mark style="color:orange;">mys)</mark><mark style="color:blue;">)</mark> return, appropriate association, that is simply. Hc(<mark style="color:blue;">mxs</mark>), Hc(<mark style="color:orange;">mys</mark>). Where Hc represents, <mark style="background-color:green;">the singleton concept Hilbert space</mark>
 
 **Declarative definition of concepts identity**
 
@@ -64,7 +66,7 @@ As mentioned, concepts exists, in singular Hilbert Space, accessible only by cre
 identity(meaning(x)):-(x)| meaning => [mxa, mxb] | ð = 0
 ```
 
-To be interpreted as: **Concepts preserve their identity for specification x null difference of the contextualized descriptors **_**mxa  and**_**  **_**mxb.**_
+To be interpreted as: **Concepts preserve their identity for specification x, having null difference for contextualized descriptors **_**mxa  and**_**  **_**mxb.**_
 
 It's dual to the expression **ð(Hc(ma), Hc(mb)) = 0**
 
