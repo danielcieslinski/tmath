@@ -78,7 +78,7 @@ Substitute X with any **formal object** which properties, you're interested in a
 
 ### Semi-abstract distance metric.
 
-So the **only rule** is that, <mark style="background-color:red;">it has to be more of a distance metric, than no-distance metric.</mark> This is very useful, for describing and comparing objects, from completely disjoint contexts/scopes and omitting tones of irrelevant bullshit, that current understanding of formal concepts It's one of my favorite spell in fighting current mathematical establishment.
+So the **only rule** is that, <mark style="background-color:red;">it has to be more of a distance metric, than no-distance metric.</mark> This is very useful, for describing and comparing objects, from completely disjoint contexts/scopes and omitting tones of irrelevant bullshit, that current understanding of formal concepts requires. It's one of my favorite spells in fighting current mathematical establishment :smile:.
 
 ## Concepts, with realizers.
 
@@ -99,7 +99,7 @@ r = 'The meaning of life is: {}'.format(get_answer(sc.question))
 
 `∂(sc, r)? -> val`
 
-So in the first place it raises the question, what the hell is '∂' and the whole idea is that its' whatever you want it to be and it's formal up to the degree, of formality of your specification and the meaning As long, as you can provide non contradictory meaning, everything is cool.
+So in the first place it raises the question, what the hell is '∂' and the whole idea is that its' whatever you want it to be and it's formal up to the degree, of formality of your specification and the meaning as long, as you can provide non contradictory meaning, everything is cool.
 
 ## Formality
 
