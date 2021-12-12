@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Background](README.md)
+* [Intro](README.md)
 * [Formalizing Concept](axiomatizing-concept.md)
 * [The making of T](the-making-of-t.md)
 * [God principle](god-principle.md)

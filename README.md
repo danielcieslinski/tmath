@@ -1,10 +1,14 @@
 ---
-description: Mathematics ov thought. For humans
+description: New Math. For humans.
 ---
 
-# Background
+# Intro
 
-_Bunch of formal concepts, in the first place phenomenal thinking frameworks of my authorship. Which I've created during last two years, being a long hard road, from, through and to the noise._
+_Bunch of formal concepts and theorems, but in the first place phenomenal thinking frameworks of my authorship, which I've created during last two years, being a long hard road, from, through and to the (information)noise._
+
+**Name origin**: _Thought_ + _Math_
+
+I hope to establish _Mathematics ov thought_. Formal methods, where in the first place comes always **idea**, or a **concept,** while formality comes from a need to unify the meaning, among different meaning providers.
 
 ### Principles
 
