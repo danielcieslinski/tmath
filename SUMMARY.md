@@ -7,6 +7,7 @@
 * [Gates](gates.md)
 * [Context and scope](term-clarifications.md)
 * [3(Pr)](3-pr.md)
+* [Outscoping](outscoping.md)
 
 ## Metaobjects
 
