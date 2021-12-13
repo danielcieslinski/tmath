@@ -26,6 +26,7 @@
 
 ## Other
 
+* [Numbers](other/numbers.md)
 * [Copy functor](other/gamesize.md)
 * [Chaos Generator](other/chaos-generator.md)
 * [Free ideas](other/free-ideas.md)
