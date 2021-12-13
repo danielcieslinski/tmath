@@ -12,10 +12,10 @@
 
 ## Metaobjects
 
+* [Metatype](metaobjects/metatype.md)
 * [Primitives](metaobjects/primitives/README.md)
   * [Anti-operator](metaobjects/primitives/anti-operator.md)
   * [Existance functor](metaobjects/primitives/existance-functor.md)
-  * [Metatype](metaobjects/primitives/metatype.md)
 * [⍡](metaobjects/undefined.md)
 * [QV](metaobjects/qv.md)
 * [Ontology](metaobjects/ontology.md)
