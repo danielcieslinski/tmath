@@ -2,6 +2,7 @@
 
 * [Intro](README.md)
 * [Formalizing Concept](axiomatizing-concept.md)
+* [Grammar](grammar.md)
 * [The making of T](the-making-of-t.md)
 * [God principle](god-principle.md)
 * [Gates](gates.md)
