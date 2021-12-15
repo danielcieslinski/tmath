@@ -3,12 +3,13 @@
 * [Intro](README.md)
 * [Formalizing Concept](axiomatizing-concept.md)
 * [Grammar](grammar.md)
-* [The making of T](the-making-of-t.md)
 * [God principle](god-principle.md)
+* [Box](box.md)
 * [Gates](gates.md)
 * [Context and scope](term-clarifications.md)
 * [3(Pr)](3-pr.md)
 * [Outscoping](outscoping.md)
+* [The making of T](the-making-of-t.md)
 
 ## Metaobjects
 
