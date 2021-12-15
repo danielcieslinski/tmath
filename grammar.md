@@ -32,6 +32,8 @@ Expression: "X OF B" is equivalent to the
 type x = typeof(B)
 ```
 
-The only difference to this code and the lexical framework I propose is that the expression is that in this grammar, expression are bidirectional.&#x20;
+The only difference to this code and the lexical framework I propose is that the expressions are bidirectional, so in the computational sense, the actual performed operation is inferred from the context.
 
-Simply there is no difference, between assigning and getting a value. `Performed operation` should be inferred from the context. If the value of the left hand object is unknown, then expression, can be understood as if assigning, to the object A, the value of the object B accordingly to the used lexical operator.
+In other words, **The lexical operator** accordingly to its kind {Value, Function, Type} creates bidirectional relationship between object A and B: `A <=(O{V, F, T})=> B`
+
+``
