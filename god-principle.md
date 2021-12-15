@@ -16,7 +16,9 @@ Pay attention here, not to mix up the terms totality box, with the concept hilbe
 
 Purity of a concept, is given by the absence of absolute(context-free) existence functor.  Pure concept is formal concept that has perfect realizer, however purity is term reserved strictly to its' concept and not the realizer. In fact impurity is property of every realizer <==> there is no realizer that is pure. Can be thought of as the prolog program, which contains only set of rules, but no facts at all.
 
+### Generator
 
+Generator of structure S is such object, which if  contained in its' structure would be a primer to the symmetrical object which it generates.&#x20;
 
 ### Diagrams
 
