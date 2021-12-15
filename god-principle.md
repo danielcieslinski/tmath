@@ -15,3 +15,13 @@ Pay attention here, not to mix up the terms totality box, with the concept hilbe
 ### Purity
 
 Purity of a concept, is given by the absence of absolute(context-free) existence functor.  Pure concept is formal concept that has perfect realizer, however purity is term reserved strictly to its' concept and not the realizer. In fact impurity is property of every realizer <==> there is no realizer that is pure. Can be thought of as the prolog program, which contains only set of rules, but no facts at all.
+
+
+
+### Diagrams
+
+This diagram represents generator, starting point and an a structure with two category of elements, x and y and edges v and h, represent performed expansion.
+
+This diagram, could be said to represent algebra with two categories of elements. For example numbers and operators.&#x20;
+
+![](<.gitbook/assets/Screen Shot 2021-12-15 at 20.42.45.png>)
