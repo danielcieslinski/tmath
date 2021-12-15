@@ -1,5 +1,7 @@
 ---
-description: Kinda flattened set
+description: >-
+  Some polymorphic handy stuff, for answering questions, regarding existence,
+  without existing itself
 ---
 
 # Box and frame
