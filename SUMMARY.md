@@ -6,7 +6,7 @@
 * [Box and frame](box-and-frame.md)
 * [Context and scope](term-clarifications.md)
 * [God principle](god-principle.md)
-* [Trascendence operator](trascendence-operator.md)
+* [Transcendental operator](transcendental-operator.md)
 * [Gates](gates.md)
 * [3(Pr)](3-pr.md)
 * [Outscoping](outscoping.md)
