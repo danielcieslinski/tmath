@@ -8,7 +8,7 @@ description: Approach to create iterative algorithm allowing for computing meta-
 
 Identity of representation of T-generating element, in a system, with invariant representation transformation, must involve additional information, allowing for distinguishing the generative element, from first step of the generative process. I'm assuming here, my PR principle. Principle of system design, which is to always consider creating an element allowing us to be able to defer the pure idea of the system, when inside of the system <==> (g)enerator.
 
-**In other words, something that allows, for emergence of h-cobordism, from its anti-auto-morphism.**
+**In other words, something that allows, for emergence of h-cobordism, from the anti-auto-morphism.**
 
 Imagine you're sitting inside a ball. In order to remember where you are you make a square and draw π in it's center. Wherever inside a ball it allows you to recall, that it's exactly anti-concept of a ball, shape, equality and your position ;)
 
@@ -45,4 +45,3 @@ mt = [•,¡]
 // but not the same, which are simply two values. #true #false
 // which are denoted in the step by [•!]
 ```
-
