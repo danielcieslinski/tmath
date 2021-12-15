@@ -21,3 +21,13 @@ for q in q_list:
 # This updates system with an information, that basically triggers non-default behaviour, in the system state updates.
 # Reminds, me off those dna chains, that lock  
 ```
+
+```
+-----    <--^-->
+\ | /       |
+ \|/        |
+```
+
+I got this weird idea, that somehow I feel like is accurately representing this process.
+
+Left symbol represents the state of giving proper answer, while the right one, diverging correlation and scope relevance of the answer set.&#x20;
