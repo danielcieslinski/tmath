@@ -4,7 +4,7 @@
 * [Formalizing Concept](axiomatizing-concept.md)
 * [Grammar](grammar.md)
 * [God principle](god-principle.md)
-* [Box](box.md)
+* [Box and frame](box-and-frame.md)
 * [Gates](gates.md)
 * [Context and scope](term-clarifications.md)
 * [3(Pr)](3-pr.md)

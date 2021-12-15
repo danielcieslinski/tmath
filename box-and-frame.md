@@ -2,7 +2,7 @@
 description: Kinda flattened set
 ---
 
-# Box
+# Box and frame
 
 ### Definition
 
@@ -12,11 +12,8 @@ It's kinda the idea, of a frame, inside of which some objects exists, but frame 
 
 1. Box is a semi-abstract and should be thought of as a higher order object than a frame.
 2. There is no box, that can not be considered a frame object, when needed
-3. Box can contain ¸¸
-
-
-
-
-
-
+3. Box can contain infinite amount of other frames.
+4. **Box can have size when needed!**
+5. If context regards asking about hierarchical relation, there frame should be used.
+6. If context doesn't require an answer regarding the hierarchy of elements in a structure, we should use box object&#x20;
 
