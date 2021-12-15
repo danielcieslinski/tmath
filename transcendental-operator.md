@@ -1,5 +1,7 @@
 ---
-description: It's a heavy spell.
+description: >-
+  I'm not entirely sure, about its actual use case, but got me thinking, its
+  pretty cool spell
 ---
 
 # Transcendental operator
@@ -18,4 +20,4 @@ For example in context of standard algebras, Y and X can accordingly represent: 
 
 ![Sorry, I'm kinda disabled when it comes to handwriting lol](.gitbook/assets/0.jpg)
 
-Think about it as kinda teleporter/transformator, which for particular generative elements, gives you flattened structure, generated objects are grouped into well-typed comparable categories. &#x20;
+Think about it as kinda teleporter/transformator, which for particular generative elements, gives you flattened structure containing, all generated objects grouped into well-typed comparable(hierarchical) categories. &#x20;
