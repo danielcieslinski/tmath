@@ -12,7 +12,9 @@ I hope to establish _Mathematics ov thought_. Formal methods, where in the first
 
 ### Principles
 
-* **All is dual ... and up to it's anti-auto-morphism**
+* **All is dual \[...] and up to it's anti-auto-morphism.**
+* **More than objects are, important is what they become.**&#x20;
+* **Everything can be comparable.**
 
 ### Get involved
 
