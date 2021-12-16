@@ -5,6 +5,7 @@
 * [Grammar](grammar.md)
 * [Box and frame](box-and-frame.md)
 * [Context and scope](term-clarifications.md)
+* [Generators](generators.md)
 * [God principle](god-principle.md)
 * [Transcendental operator](transcendental-operator.md)
 * [Gates](gates.md)
