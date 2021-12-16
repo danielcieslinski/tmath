@@ -13,7 +13,7 @@ I hope to establish _Mathematics ov thought_. Formal methods, where in the first
 ### Principles
 
 * **All is dual \[...] and up to it's anti-auto-morphism.**
-* **More than objects are, important is what they become.**&#x20;
+* **More than what objects are, important is what they can and can not become.**
 * **Everything can be comparable.**
 
 ### Get involved
@@ -23,6 +23,6 @@ I hope to establish _Mathematics ov thought_. Formal methods, where in the first
 
 ### At the moment
 
-Repository is in very active development, sorry for the mess and a lot of unclarity, redundancy and imprecision. I'm bring here all my mathematical ideas, from last years and unifying them, in order to make sure tmath maintains full integrity, as the thinking framework and the meta-theoretic formal system.
+Repository is in very active development, sorry for the mess and a lot of unclarity, redundancy and imprecision. I'm bring here all my mathematical ideas, from last years and unifying them, in order to make sure **tmath** maintains full integrity, as the thinking framework and the meta-theoretic formal system.
 
-****
+***

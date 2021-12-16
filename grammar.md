@@ -6,34 +6,40 @@ description: Few handy lexical formalities
 
 ### General structure
 
-I propose following simple grammar with the following general structure: `<Object A>` `{lexical functor} <Object B>.`Lexical functors which I use, are: $$\{OF, OV, OT\}$$
+I propose following simple grammar with the following general structure: `<Object A>` `{lexical functor} <Object B>.`Lexical operator which I use, are: $$\{OF, OV, OT\}$$
 
-### Grammar specification
+### Lexical operator
 
-| Operand  | Target object |
-| -------- | ------------- |
-| `OV`     | Value         |
-| `OF`     | Function      |
-| `OT`     | Type          |
+| Operand | Target object |
+| ------- | ------------- |
+| `OV`    | Value         |
+| `OF`    | Function      |
+| `OT`    | Type          |
 
-I guess it's best to explain it by the following example.&#x20;
+I guess it's best to explain it by the following example.
 
 ```cpp
 // Let X be a variable and for now let's assume that B is a complex object
 // Assuming dot notation expression 
 
 Expression: "X OV B" is equivalent to the 
-val x = B.value
+val x <==> B.value
 
 Expression: "X OF B" is equivalent to the 
-function x = B.function
+function x <==> B.function
 
-Expression: "X OF B" is equivalent to the 
-type x = typeof(B)
+Expression: "X OT B" is equivalent to the 
+type x <==> typeof(B)
 ```
-
-The only difference to this code and the lexical framework I propose is that the expressions are bidirectional, so in the computational sense, the actual performed operation is inferred from the context.
 
 In other words, **The lexical operator** accordingly to its kind {Value, Function, Type} creates bidirectional relationship between object A and B: `A <=(O{V, F, T})=> B`
 
-``
+### Sets
+
+I use the following convection for typed set annotation. `<prefix>-set.`Where prefix is first letter of the according type. Abbreviations that I use, are expanded in the table below.
+
+| Aliased | Expanded         |
+| :-----: | ---------------- |
+| `i-set` | Information set  |
+| `f-set` | Set of functions |
+| `o-set` | Set of objects.  |
