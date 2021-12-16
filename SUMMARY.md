@@ -20,11 +20,13 @@
   * [Existance functor](metaobjects/primitives/existance-functor.md)
 * [⍡](metaobjects/undefined.md)
 * [QV](metaobjects/qv.md)
-* [Ontology](metaobjects/ontology.md)
+* [Convex ontology](metaobjects/ontology.md)
 
 ## Mathmaking
 
-* [Iterative](mathmaking/iterative.md)
+* [Page 1](mathmaking/page-1.md)
+* [NO2](mathmaking/no2.md)
+* [If you forget, listen to TV MAN](mathmaking/iterative.md)
 
 ## Other
 
