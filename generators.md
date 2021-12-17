@@ -38,4 +38,21 @@ This is more, or less what I, by _"All is dual \[...] and up to it's anti-auto-m
 
 **Up to the anti-morphism:**&#x20;
 
-Can be understood as the lack of equivalence relation, between objects on ˚- hierachical order, while&#x20;
+Can be understood as lacking of equivalence relation, and absence of morphism between objects higher of different consecutive orders. This is requirement in order, for the existence of generative element, because if morphism Y -> X existed, then g couldn't be considered a primer to the generator.  Primer requires unambiguous implication. &#x20;
+
+Formally:
+
+Let Y, be of higher type than x. Then we can speak about a generative element g=y that belongs to the structure Y <==> Pr(X,X+y) => (Pr(y) -> G(y, X).
+
+{% hint style="info" %}
+&#x20;Pr(X, Y) is a function of arity 2, that returns a primer from Y and the object, to which it is a primer(in this case a generator, of structure X and generative element g=y)
+{% endhint %}
+
+#### Auto-anti-morphism (without "up")
+
+Anti + Auto can be thought as the functor created through the composition of self-reference operator and the anti operator.&#x20;
+
+#### TODO
+
+* Primer | introduce the property set and why it's not necessary to specify the feature set when speaking about generator
+
