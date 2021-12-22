@@ -18,10 +18,6 @@ Purity of a concept, is given by the absence of absolute(context-free) existence
 
 Formally: (`val in M)? -> always #false`
 
-### Generator
-
-Generator of structure S is such object, which if contained in its' structure would be a primer to the symmetrical object which it generates.
-
 ### Diagrams
 
 This diagram represents generator, starting point and an a structure with two category of elements, x and y and edges v and h, represent performed expansion.
