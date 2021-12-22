@@ -12,7 +12,7 @@ My motivation behind creating this formalisms. is so that, we don't have to wast
 
 ## Anti-concept
 
-All concepts, have one common anti-concept. It is their <mark style="color:yellow;">non-existance</mark>. Given that every concept which doesn't exist is non-distinguishable and non-referancable(by a referencer of  higher specificity), there is exactly one anti-concept, that is common for all concepts.
+All concepts, have one common anti-concept. It is their <mark style="color:yellow;">non-existance</mark>. Given that every concept which doesn't exist is non-distinguishable and non-referancable(by a referencer of higher specificity), there is exactly one anti-concept, that is common for all concepts.
 
 The only rule is that concept **must** **exist**. It can be non-referencable, or non-distinguishable. Therefore there are infinitely many concepts, that exist. Concepts, exist regardless of time, which is not obvious if we were to speak about `the idea` of something, because there is a point in time, from which we can say that it exists(the point in time, denoting its' creation). Concept involves formal systems, that hold property of infinity-generating.
 
@@ -24,11 +24,11 @@ Purpose of this formalism, was to extend the idea of thought, into scopes with d
 
 ## Singular concept space
 
-My initial idea, was to guarantee singularity of all concepts, through asserting, that all of them have exactly one common anti-concept, and later by involving some kind of ideas of semi-abstract(which I describe below) metric-spaces spanned along the total set of comparators. However I  provide much handier realization of the idea, by usage of **singleton** Hilbert space, containing all concepts, that can ever exist. In other words, if concept is referencable(by the given descriptor) it belongs to that space.
+My initial idea, was to guarantee singularity of all concepts, through asserting, that all of them have exactly one common anti-concept, and later by involving some kind of ideas of semi-abstract(which I describe below) metric-spaces spanned along the total set of comparators. However I provide much handier realization of the idea, by usage of **singleton** Hilbert space, containing all concepts, that can ever exist. In other words, if concept is referencable(by the given descriptor) it belongs to that space.
 
 Whatever can be ever spoken off as a concept already exists in a this space, which contains, all concepts and so `definition` in context of a concept, instead of transforming framing object, should be thought off as accessing already existing element in that space.
 
-Concept descriptors are functions, acting on that space and can be thought of as `querying functions` in common computational sense. Argument to those functions, are `contextualized descriptors`.&#x20;
+Concept descriptors are functions, acting on that space and can be thought of as `querying functions` in common computational sense. Argument to those functions, are `contextualized descriptors`.
 
 > Note: I mention my initial idea here, as I believe it's important to be able to see, how this idea evolved over time, what makes it easier to understand it, but also it allows reader to get the notion, of the purpose behind it, what is of superior value itself, but also, let's others to introduce suggestions, or corrections, to a final form, what is hard accomplish, when being presented a readymade formalism.
 
@@ -50,7 +50,7 @@ $$res | OT:C_s$$ means that type of the result is a concept, pointed to by sente
 
 #### Example
 
-Let <mark style="color:green;">s</mark> be a concept descriptor. We can assume it's a string, in the computational sense.&#x20;
+Let <mark style="color:green;">s</mark> be a concept descriptor. We can assume it's a string, in the computational sense.
 
 Let <mark style="color:blue;">Mx</mark> and <mark style="color:orange;">My</mark> My denote, two `meaning providers`. Each of them, maps sentence <mark style="color:green;">s</mark>, into sentences <mark style="color:blue;">mxs</mark> and <mark style="color:orange;">mys</mark>, which link to concepts that are associated with given descriptor(in this case sentence <mark style="color:green;">s</mark>) accordingly with the associated meaning.
 
@@ -66,11 +66,11 @@ As mentioned, concepts exists, in singular Hilbert Space, accessible only by cre
 identity(meaning(x)):-(x)| meaning => [mxa, mxb] | ð = 0
 ```
 
-To be interpreted as: **Concepts preserve their identity for specification x, having null difference for contextualized descriptors **_**mxa  and**_**  **_**mxb.**_
+To be interpreted as: **Concept preserves its identity for specification x, when having null difference between contextualized descriptors mxa and mxb.**
 
 It's dual to the expression **ð(Hc(ma), Hc(mb)) = 0**
 
-## Semi-Abstracts&#x20;
+## Semi-Abstracts
 
 #### Semi abstract X
 
