@@ -15,6 +15,7 @@
 
 ## Metaobjects
 
+* [Metaobject](metaobjects/metaobject.md)
 * [Metatype](metaobjects/metatype.md)
 * [Primitives](metaobjects/primitives/README.md)
   * [Anti-operator](metaobjects/primitives/anti-operator.md)
