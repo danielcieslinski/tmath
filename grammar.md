@@ -36,7 +36,7 @@ In other words, **The lexical operator** accordingly to its kind {Value, Functio
 
 ### Sets
 
-I use the following convection for typed set annotation. `<prefix>-set.`Where prefix is first letter of the according type. Abbreviations that I use, are expanded in the table below.
+I use the following convention for typed set annotation. `<prefix>-set.`Where prefix is first letter of the according type. Abbreviations that I use, are expanded in the table below.
 
 | Aliased | Expanded         |
 | :-----: | ---------------- |
