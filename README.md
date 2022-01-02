@@ -6,15 +6,26 @@ description: New Math. For humans.
 
 _Bunch of formal concepts and theorems, but in the first place phenomenal thinking frameworks of my authorship, which I've created during last two years, being a long hard road, from, through and to the (information)noise._
 
-**Name origin**: _Thought_ + _Math_
+_Main purpose behind this work is to develop tools capable of unifying all branches of mathematics, while at the same time not restraining mathematical freedom._
 
-I hope to establish _Mathematics ov thought_. Formal methods, where in the first place comes always **idea**, or a **concept,** while formality comes from a need to unify the meaning, among different meaning providers.
+**Name origin**: _T_ + _Math_\
+_Where you can assume T is because of meta-T function around which, most of the introduced concepts revolve, however It's also tribute to a **thought,** which ironically seems to me somehow lost in the modern mathematics. Stuck somewhere in between the machine-math, formal gibberish and unintuitive notation._
 
-### Principles
+In the long run I hope to establish, what I got to call, the _mathematics ov thought_. The collection of formal methods, where in the first place comes always the **idea**, or a **concept,** which does not need sufficient prior and complete formalization. Instead, formality comes rather at the property of the system, emerging from the need to unify meaning, among different meaning providers.
 
-* **All is dual \[...] and up to it's anti-auto-morphism.**
-* **More than what objects are, important is what they can and can not become.**
-* **Everything can be comparable.**
+I hereby present several ideas and tricks which allow for \`continuous development\` of the formalisms, which are necessary to call something 'formal', however at the same time not being invalid mathematical object without complete formal specification.
+
+### The Meta Principle
+
+<mark style="background-color:blue;">**All is dual \[...] and up to its anti-auto-morphism.**</mark>
+
+
+
+### Some ideas
+
+* **Proof is a source of truth in a domain of blind.**
+* **Everything is comparable, the trick is to pick a metric.**
+* **Every object has its' identity**
 
 ### Get involved
 
@@ -23,6 +34,5 @@ I hope to establish _Mathematics ov thought_. Formal methods, where in the first
 
 ### At the moment
 
-Repository is in very active development, sorry for the mess and a lot of unclarity, redundancy and imprecision. I'm bring here all my mathematical ideas, from last years and unifying them, in order to make sure **tmath** maintains full integrity, as the thinking framework and the meta-theoretic formal system.
+Repository is in very active development, sorry for the mess and a lot of unclarity, redundancy and imprecision. I'm bring here all my mathematical ideas, from last years, optimizing and unifying them, in order to make sure **Tmath** maintains full integrity, as the thinking framework and possibly minimalistic, yet extremely powerful meta-formal system.
 
-***
