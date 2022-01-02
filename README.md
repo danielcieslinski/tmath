@@ -11,15 +11,15 @@ _Main purpose behind this work is to develop tools capable of unifying all branc
 **Name origin**: _T_ + _Math_\
 _Where you can assume T is because of meta-T function around which, most of the introduced concepts revolve, however It's also tribute to a **thought,** which ironically seems to me somehow lost in the modern mathematics. Stuck somewhere in between the machine-math, formal gibberish and unintuitive notation._
 
-In the long run I hope to establish, what I got to call, the _mathematics ov thought_. The collection of formal methods, where in the first place comes always the **idea**, or a **concept,** which does not need sufficient prior and complete formalization. Instead, formality comes rather at the property of the system, emerging from the need to unify meaning, among different meaning providers.
+In the long run I hope to establish, what I got to call, the _mathematics ov thought_. The collection of formal methods, where in the first place comes always the **idea**, or a **concept,** which does not need complete formal realization, in order to be considered formal. On the contrary to current formal methods I propose redefinition of the idea of formality. Instead of being rigorous set of axioms, tightly specifying the properties of the structure, I propose treating formality as a property of particular object and the concept of formality as the semi-abstract metric space.
+
+What allows it to come without any loss of generality or formality to the system(in fact just the other way around). I developed the concept of semi-abstract structures, which allow to create new type by deriving from any mathematical object, exactly and only those properties which are needed. It allows to painlessly and flawlessly map formality into a property of each object.&#x20;
 
 I hereby present several ideas and tricks which allow for \`continuous development\` of the formalisms, which are necessary to call something 'formal', however at the same time not being invalid mathematical object without complete formal specification.
 
 ### The Meta Principle
 
 <mark style="background-color:blue;">**All is dual \[...] and up to its anti-auto-morphism.**</mark>
-
-
 
 ### Some ideas
 
