@@ -12,6 +12,6 @@ I propose clarification and unification of the term "Context" and introduce one 
 
 ### Scope
 
-That's pretty obvious, but just to clarify. Scope, describes a locality within which object have valid reference. In other words, for object in a scope we can calculate power of context.
+That's pretty obvious, but just to clarify. Scope, describes a locality within which object have valid reference.
 
-### Strength of context
+### Context
