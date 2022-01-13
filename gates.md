@@ -20,6 +20,7 @@ Using additionally the operator language: $$n[*+*]$$is a gate of decimal numeric
 
 $$ǥ(1,2,3) = 123_{10}$$
 
-### Operator language
+### TODO
 
-It's&#x20;
+* Operator language
+

@@ -11,16 +11,13 @@
 * [Gates](gates.md)
 * [3(Pr)](3-pr.md)
 * [Outscoping](outscoping.md)
-* [Page 1](page-1.md)
 * [The making of T](the-making-of-t.md)
 
 ## Metaobjects
 
-* [Metaobject](metaobjects/metaobject.md)
+* [Anti-operator](metaobjects/anti-operator.md)
+* [Existance functor](metaobjects/existance-functor.md)
 * [Metatype](metaobjects/metatype.md)
-* [Primitives](metaobjects/primitives/README.md)
-  * [Anti-operator](metaobjects/primitives/anti-operator.md)
-  * [Existance functor](metaobjects/primitives/existance-functor.md)
 * [⍡](metaobjects/undefined.md)
 * [QV](metaobjects/qv.md)
 * [Convex ontology](metaobjects/ontology.md)
