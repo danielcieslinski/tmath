@@ -18,10 +18,7 @@ idea of existstance inside anty system:
 
  :[g](0~1)
 
-(pi,[•!]) -> g_pure -> 
+(pi,[•!]) -> g_pure
 
-in every sytem 
-
-g,  = repr<•>
+g, e = repr<•>
 ```
-
